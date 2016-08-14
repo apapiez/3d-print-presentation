@@ -7,13 +7,21 @@
 \usepackage{color}
 \usepackage{booktabs}
 \usepackage[scale=2]{ccicons}
-\usepackage{minted}
+%\usepackage{minted}
+\usepackage{media9}
 
 \usepgfplotslibrary{dateplot}
 
-\usemintedstyle{trac}
+%\usemintedstyle{trac}
 
-\title{The potential of 3D printing in modern Chemistry}
+\title[The potential of 3D printing in modern Chemistry]{The potential of 3D printing in modern Chemistry
+	\hspace{4cm} \includemedia[
+	label=testsound,
+	addresource=test.mp3,
+	activate=pageopen,
+	flashvars={source=test.mp3&autoPlay=true&hideBar=true},
+	transparent
+	]{\fbox{\small{Click for voiceover}}}{APlayer.swf}}
 \date{\today}
 \author{Alexander Papiez}
 \institute{Northumbria University}
@@ -23,7 +31,15 @@
 \maketitle
 
 \begin{frame}[fragile]
-  \frametitle{Overview}
+  \frametitle{Overview
+			  \hspace{3cm}\includemedia[
+		  	    label=testsound,
+		  	    addresource=test.mp3,
+		  	    activate=pageopen,
+		  	    flashvars={source=test.mp3&autoPlay=true&hideBar=true},
+		  	    transparent
+		  	    ]{\fbox{\small{Click for voiceover}}}{APlayer.swf}
+}
   \vspace{-1cm}
 	\tableofcontents
   

@@ -1,0 +1,13 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Additive manufacturing: A 24$^{th}$ century technology?}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{21st Century Replicators}{9}{0}{2}
+\beamer@subsectionintoc {2}{2}{Why 3D Printing}{10}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{1}{Iterative Development}{10}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{2}{Advancing the field to promote innovation}{11}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{3}{To take advantage of new technologies to promote sustainable chemistry}{12}{0}{2}
+\beamer@sectionintoc {3}{A Case Study: 3D Printed Microwave Flow Cell}{13}{0}{3}
+\beamer@subsectionintoc {3}{1}{Design of the flow cell}{15}{0}{3}
+\beamer@subsectionintoc {3}{2}{The best laid plans of mice and men..}{17}{0}{3}
+\beamer@subsectionintoc {3}{3}{An improved design}{20}{0}{3}
+\beamer@sectionintoc {4}{Results and Conclusions}{23}{0}{4}
